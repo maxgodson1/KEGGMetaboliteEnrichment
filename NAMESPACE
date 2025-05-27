@@ -1,0 +1,5 @@
+export(kegg_metabolite_enrichment)
+export(keggbar)
+export(keggdot)
+import(ggplot2)
+import(KEGGREST)
