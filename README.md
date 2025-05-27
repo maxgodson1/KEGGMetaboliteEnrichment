@@ -1,4 +1,4 @@
-# KeggMetaboliteEnrichment
+# KEGGMetaboliteEnrichment
 A convenient kegg enrichment tool for metabolomic data
 The package automatically retrieves KEGG pathway for a specified species and provides two types of visualization plots (dot plot and bar plot) to help interpret the results.
 
