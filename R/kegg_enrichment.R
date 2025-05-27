@@ -1,3 +1,11 @@
+#' Perform KEGG metabolite enrichment
+#'
+#' @param KEGGid A character vector of KEGG compound IDs (e.g., "C00160")
+#' @param species A character string, KEGG species code (e.g., "hsa", "eco")
+#' @param p.adjust.method Adjustment method for multiple testing, default is "BH"
+#'
+#' @return A data.frame with enrichment results
+#' @export
 kegg_metabolite_enrichment <- function(KEGGid, species, p.adjust.method = "BH") {
   pathways <- KEGGREST::keggList("pathway", species)
   path_ids <- sub("path:", "", names(pathways))
