@@ -1,0 +1,11 @@
+Package: KeggMetaboliteEnrichment
+Type: Package
+Title: KEGG Metabolite Enrichment and Visualization
+Version: 0.1.0
+Author: Zhuang Shao
+Maintainer: shaozhuang21@mails.ucas.ac.cn
+Description: Perform enrichment analysis using KEGG compound IDs and visualize the results using ggplot2.
+Depends: R (>= 3.5.0)
+Imports: KEGGREST, ggplot2, stats
+Encoding: UTF-8
+LazyData: true
