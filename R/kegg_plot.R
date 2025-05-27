@@ -1,5 +1,7 @@
+#' Title: Draw KEGG dotplot
+#'
 #' @description
-#' Draw a dotplot of KEGG enrichment results returned by `kegg_metabolite_enrichment()`.
+#' Draw a dotplot or barplot of KEGG enrichment results returned by `kegg_metabolite_enrichment()`.
 #'
 #' @param results A data.frame returned from kegg_metabolite_enrichment().
 #' @return A ggplot2 object.
