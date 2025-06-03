@@ -2,7 +2,7 @@
 % Please edit documentation in R/kegg_plot.R
 \name{keggbar}
 \alias{keggbar}
-\title{Title: Draw KEGG dotplot}
+\title{Title: Draw KEGG barplot}
 \usage{
 keggbar(results)
 }
