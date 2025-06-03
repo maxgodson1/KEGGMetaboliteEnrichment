@@ -1,9 +1,8 @@
-# KEGGMetaboliteEnrichment
+<img width="376" alt="image" src="https://github.com/user-attachments/assets/732a0f6d-f4c0-46a5-8973-339a76b17379" /># KEGGMetaboliteEnrichment
 A convenient kegg enrichment tool for metabolomic data
 The package automatically retrieves KEGG pathway for a specified species and provides two types of visualization plots (dot plot and bar plot) to help interpret the results.
 
 # 🔧 Installation
-
 Install the package directly from GitHub using `devtools`:
 If you don't have devtools installed
 install.packages("remotes")
