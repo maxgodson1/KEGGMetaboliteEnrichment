@@ -4,7 +4,7 @@ The package automatically retrieves KEGG pathway for a specified species and pro
 
 # 🔧 Installation
 
-You can install the package directly from GitHub using `devtools`:
+Install the package directly from GitHub using `devtools`:
 If you don't have devtools installed
 install.packages("remotes")
 remotes::install_github("r-lib/devtools")
