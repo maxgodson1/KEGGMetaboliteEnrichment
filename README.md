@@ -1,7 +1,7 @@
 <img width="282" alt="image" src="https://github.com/user-attachments/assets/6112735b-513a-4fb6-85e3-150adadf923d" />
 
 A convenient kegg enrichment tool for metabolomic data
-<img width="1070" alt="image" src="https://github.com/user-attachments/assets/3af66efd-1e5a-4b1b-95db-558197c5f062" />
+<img width="685" alt="image" src="https://github.com/user-attachments/assets/1e4b766e-eaf2-4fda-8f78-e55863ae33ef" />
 
 # 🔧 Installation
 Install the package directly from GitHub using `devtools`:
