@@ -13,5 +13,5 @@ keggbar(results)
 A ggplot2 object.
 }
 \description{
-Draw a dotplot or barplot of KEGG enrichment results returned by `kegg_metabolite_enrichment()`.
+Draw a barplot of KEGG enrichment results returned by `kegg_metabolite_enrichment()`.
 }
