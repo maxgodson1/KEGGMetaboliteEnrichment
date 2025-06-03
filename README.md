@@ -11,7 +11,6 @@ remotes::install_github("r-lib/devtools")
 
 # Install from GitHub
 devtools::install_github("zhuangshaobio/KeggMetaboliteEnrichment")
-#Quick Start
 library(KeggMetaboliteEnrichment)
 
 # Define a vector of KEGG compound IDs
