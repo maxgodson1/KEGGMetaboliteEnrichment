@@ -1,4 +1,4 @@
-<img width="332" alt="image" src="https://github.com/user-attachments/assets/11f06e9c-85ef-4891-b119-80e03f721663" />
+<img width="282" alt="image" src="https://github.com/user-attachments/assets/6112735b-513a-4fb6-85e3-150adadf923d" />
 
 A convenient kegg enrichment tool for metabolomic data
 The package automatically retrieves KEGG pathway for a specified species and provides two types of visualization plots (dot plot and bar plot) to help interpret the results.
